@@ -26,3 +26,5 @@ ifixit                     https://www.ifixit.com/Info/Responsible_Disclosure   
 xsolla                     https://help.xsolla.com/bounty/rewards                                                        Yes                       No                       3 Day
 Nestforms                  https://www.nestforms.com/Bug-Bounty-Program                                                  Yes                       No                       7 Day
 
+
+Telekom                    https://www.telekom.sk/wiki/ostatne/program-bug-bounty                                        Yes                       No                       3 Day
